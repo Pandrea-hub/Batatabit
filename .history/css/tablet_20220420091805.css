@@ -1,0 +1,11 @@
+.plans-container--slider{
+    justify-content: center;
+}
+
+.plans-container--slider::-webkit-scrollbar {
+    background-color: transparent;
+}
+
+.plans-container--slider::-webkit-scrollbar-thumb {
+    background-color: transparent;
+}

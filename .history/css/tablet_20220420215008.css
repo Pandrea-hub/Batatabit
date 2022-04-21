@@ -1,0 +1,52 @@
+.currency-table{
+    display: flex;
+    width: 930px;
+    margin: 0 auto;
+
+}
+
+.currency-table--container{
+    width: auto;
+}
+
+.currency-table--date{
+    position: relative;
+    margin-top: 130px;
+}
+
+#table1,
+#table2{
+    display: flex;
+    
+
+}
+
+.container-arrow,
+.container-arrow--left{
+    display: none;
+}
+
+
+#table-1,
+#table-2{
+    display: flex;
+    position: relative;
+}
+
+.product-cards--container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 30px auto;
+}
+
+
+.plans-container--slider{
+    justify-content: center;
+}
+
+.plans-container--slider::-webkit-scrollbar {
+    display: none;
+}
+
+
