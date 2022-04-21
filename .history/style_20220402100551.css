@@ -1,0 +1,15 @@
+/*
+1. Position
+2. Box model
+3. typography
+4. Visual themes
+5. Others
+*/
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+

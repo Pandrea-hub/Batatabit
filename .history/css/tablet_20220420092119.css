@@ -1,0 +1,8 @@
+.plans-container--slider{
+    justify-content: center;
+}
+
+.plans-container--slider::-webkit-scrollbar {
+    display: none;
+}
+

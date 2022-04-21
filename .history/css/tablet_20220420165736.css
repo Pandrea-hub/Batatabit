@@ -1,0 +1,14 @@
+.product-cards--container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.plans-container--slider{
+    justify-content: center;
+}
+
+.plans-container--slider::-webkit-scrollbar {
+    display: none;
+}
+
